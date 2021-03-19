@@ -1,6 +1,6 @@
 <img src="https://www.secube.eu/site/templates/dist/img/logo.png" width="400px" />
 
-# SEcube™-based SQLite Database Management utilities
+# SEcube™-based SQLite Database Library
 Copyright (C) 2021 Blu5 Labs Ltd.
 
 ## Licence
